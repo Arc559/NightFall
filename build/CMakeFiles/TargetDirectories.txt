@@ -1,0 +1,5 @@
+/workspaces/NightFall/build/CMakeFiles/nightfall.dir
+/workspaces/NightFall/build/CMakeFiles/nightfall_tests.dir
+/workspaces/NightFall/build/CMakeFiles/test.dir
+/workspaces/NightFall/build/CMakeFiles/edit_cache.dir
+/workspaces/NightFall/build/CMakeFiles/rebuild_cache.dir

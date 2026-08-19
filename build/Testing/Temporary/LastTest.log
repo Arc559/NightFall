@@ -1,0 +1,19 @@
+Start testing: Aug 19 01:37 UTC
+----------------------------------------------------------
+1/1 Testing: nightfall_gameplay_test
+1/1 Test: nightfall_gameplay_test
+Command: "/workspaces/NightFall/build/nightfall_tests"
+Directory: /workspaces/NightFall/build
+"nightfall_gameplay_test" start time: Aug 19 01:37 UTC
+Output:
+----------------------------------------------------------
+NightFall gameplay tests passed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"nightfall_gameplay_test" end time: Aug 19 01:37 UTC
+"nightfall_gameplay_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 19 01:37 UTC
